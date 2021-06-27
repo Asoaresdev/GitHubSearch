@@ -1,11 +1,12 @@
 import React from 'react'
+import { CardContainer } from './styled'
 
-export default function Card(props) {
+export default function Card({ id, name,language, adressUrl }) {
     return (
-        <div>
-            <h2>{props.name}</h2>
-            <p>{props.language}</p>
-            <a href={props.adressUrl}>{props.adressUrl}</a>
-        </div>
+        <CardContainer Key={id}>
+            <h2>{ name }</h2>
+            <p>Language: { language }</p>
+            <a href={ adressUrl }> { adressUrl }</a>
+        </CardContainer>
     )
 }
