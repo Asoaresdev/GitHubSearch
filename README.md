@@ -6,9 +6,9 @@ Projeto desenvolvido em React para processo seletivo da Compassso.
 <br />
 <br />
 
-<img src="" width="1000">
+<img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Captura%20de%20tela%202021-06-27%20070435.png" width="1000">
 
-<img src="" width="1000">
+<img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Capturar.PNG" width="1000">
 
 
 # Requisitos
