@@ -6,8 +6,8 @@ import { HeaderContainer } from './styled'
 export default function Header() {
     return (
         <HeaderContainer>
-            <h1>GitHub</h1>
-             <FontAwesomeIcon icon= {faSearch} size="2x" />
+            <h1>GitHub Search</h1>
+            <FontAwesomeIcon icon= { faSearch } size="2x" />
         </HeaderContainer>
     )
 }
