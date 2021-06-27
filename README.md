@@ -1,14 +1,14 @@
 # GitHubSearch
-Projeto desenvolvido em React para processo seletivo da Compassso.
+Projeto desenvolvido em React para processo seletivo da Compasso.
 <br />
 
 
 <br />
 <br />
 
-<img src="" width="1000">
+<img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Captura%20de%20tela%202021-06-27%20070435.png" width="1000">
 
-<img src="" width="1000">
+<img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Capturar.PNG" width="1000">
 
 
 # Requisitos
@@ -31,19 +31,19 @@ Ao clicar nos botões de repos e starred, deverá mostrar uma lista simples de c
 - React
 - Axios
 - useState
-- Costom hook
+- Custom hook
 - Styled-components
 - Git para versionar
 - GitHub para armazenamento
 
 ### Como rodar a aplicação.
-Clonar o repositório.
+- Clonar o repositório.
 
-Entrar na pasta.
+- Entrar na pasta.
 
-No terminal, usar o comando 'npm install' ou 'yarn install' para instalar as dependências.
+- No terminal, usar o comando 'npm install' ou 'yarn install' para instalar as dependências.
 
-No terminal, usar o comando 'npm start' ou 'yarn start'.
+- No terminal, usar o comando 'npm start' ou 'yarn start'.
 
-Abrir no navegador [http://localhost:3000]
+- Abrir no navegador [http://localhost:3000]
 
