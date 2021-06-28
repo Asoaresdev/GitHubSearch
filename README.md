@@ -10,6 +10,8 @@ Projeto desenvolvido em React para processo seletivo da Compasso.
 
 <img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Capturar.PNG" width="1000">
 
+<img src="https://github.com/Asoaresdev/GitHubSearch/blob/main/image_readme/Captura%20de%20tela%202021-06-28%20172303.png" width="300">
+
 
 # Requisitos
 Para utilizar os Endpoints abaixo, você precisará estar autenticado, para isso você irá utilizar a autenticação do GITHUB:
